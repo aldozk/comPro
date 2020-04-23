@@ -86,7 +86,7 @@
         <div class="container text-center">
             <div class="row align-items-center justify-content-center">
                 <div class="col-12 col-md-8 col-sm-4">
-                    <h3 class="heading mb-3">{{$title}}</h3>
+                    <h3 class="heading">{{$title}}</h3>
                 </div>
                 <form class="col-md-6 col-sm-4">
                     <div class="form-row align-items-center">
@@ -109,7 +109,7 @@
                     </div>
                 </form>
                 <div class="col-12 col-md-8 col-sm-4">
-                    <p class="sub-heading mb-3">{{$desc}}</p>
+                    <p class="sub-heading">{{$desc}}</p>
                 </div>
             </div>
         </div>
